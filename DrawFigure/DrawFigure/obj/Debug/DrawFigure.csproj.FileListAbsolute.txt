@@ -1,0 +1,56 @@
+B:\Курсовой_ООАиП_Прыгунова\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe
+B:\Курсовой_ООАиП_Прыгунова\DrawFigure\DrawFigure\bin\Debug\DrawFigure.pdb
+B:\Курсовой_ООАиП_Прыгунова\DrawFigure\DrawFigure\obj\Debug\DrawFigure.MainForm.resources
+B:\Курсовой_ООАиП_Прыгунова\DrawFigure\DrawFigure\obj\Debug\DrawFigure.Properties.Resources.resources
+B:\Курсовой_ООАиП_Прыгунова\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.GenerateResource.Cache
+B:\Курсовой_ООАиП_Прыгунова\DrawFigure\DrawFigure\obj\Debug\DrawFigure.exe
+B:\Курсовой_ООАиП_Прыгунова\DrawFigure\DrawFigure\obj\Debug\DrawFigure.pdb
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\obj\Debug\DrawFigure.exe
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\obj\Debug\DrawFigure.pdb
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\obj\Debug\ResolveAssemblyReference.cache
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\obj\Debug\DrawFigure.MainForm.resources
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\obj\Debug\DrawFigure.Properties.Resources.resources
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\obj\Debug\GenerateResource.read.1.tlog
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\obj\Debug\GenerateResource.write.1.tlog
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe
+G:\МОСИ\ООП_Анализ\My_Curs\WORK\DrawFigure\DrawFigure\bin\Debug\DrawFigure.pdb
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\obj\Debug\DrawFigure.exe
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\obj\Debug\DrawFigure.pdb
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\obj\Debug\ResolveAssemblyReference.cache
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\obj\Debug\DrawFigure.MainForm.resources
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\obj\Debug\DrawFigure.Properties.Resources.resources
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\obj\Debug\GenerateResource.read.1.tlog
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\obj\Debug\GenerateResource.write.1.tlog
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe
+G:\МОСИ\ООП_Анализ\My_Curs\DrawFigure\DrawFigure\bin\Debug\DrawFigure.pdb
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\bin\Debug\DrawFigure.pdb
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.AssemblyReference.cache
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.MainForm.resources
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.Properties.Resources.resources
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.GenerateResource.cache
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.CoreCompileInputs.cache
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.exe
+C:\123\Курсовая\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.pdb
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe.config
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\bin\Debug\DrawFigure.pdb
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.AssemblyReference.cache
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.MainForm.resources
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.Properties.Resources.resources
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.GenerateResource.cache
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.CoreCompileInputs.cache
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.exe
+C:\Users\Qunexx\Desktop\rehcfx jjg\Мояъ\DrawFigure\DrawFigure\obj\Debug\DrawFigure.pdb
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe.config
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\bin\Debug\DrawFigure.exe
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\bin\Debug\DrawFigure.pdb
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.AssemblyReference.cache
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.MainForm.resources
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.Properties.Resources.resources
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.GenerateResource.cache
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.csproj.CoreCompileInputs.cache
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.exe
+C:\Users\Qunexx\Desktop\Курсач по ООП\DrawFigure\DrawFigure\obj\Debug\DrawFigure.pdb
